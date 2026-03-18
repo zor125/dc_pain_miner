@@ -1,0 +1,9 @@
+status: 200
+url: https://gall.dcinside.com/mgallery/board/lists/?id=sajang&page=1
+Date: Tue, 24 Feb 2026 03:16:40 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=ba90ff14a6b35664135bd1f701e62c85; path=/; domain=.dcinside.com; HttpOnly
+Vary: User-Agent
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8

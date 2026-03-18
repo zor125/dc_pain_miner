@@ -1,7 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+.DS_Store
 data/app.db
-data/reports/ 
+data/reports/
 .env
-.venv.DS_Store
